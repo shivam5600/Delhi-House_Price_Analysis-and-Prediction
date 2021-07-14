@@ -1,4 +1,4 @@
-# Delhi-House-Price_prediction
+# Delhi-House_Price_Analysis-and-Prediction
 * I did data cleaning used some advanced techniques.
 * I visualised the data by using plotly and get some good insights from the data.
 * I did one hot enchoding and used correlation matrix to get my desired features for model training.
